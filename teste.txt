@@ -1,1 +1,3 @@
-Olá, meu nome é Késsia
+Bom dia, meu nome é Késsia
+
+Hoje aprendemos git e github
